@@ -1,0 +1,18 @@
+{
+    "mean_euclidean_distance_px": 1.07,
+    "mean_angular_error_deg": 4.91,
+    "accuracy_thresholds_px": [
+        20,
+        40,
+        60,
+        80,
+        100
+    ],
+    "accuracy_percentages": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+    ]
+}
